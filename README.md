@@ -9,10 +9,14 @@ SpeedTrack System is a microcontroller-based project using the 8051 to measure s
 
 🧠 Core Components
 
-AT89C51 (8051 Microcontroller) – Main control unit 
+AT89C51 (8051 Microcontroller) – Main control unit
+
 IR Obstacle Sensors – Detect vehicle movement and calculate speed
+
 LM016L LCD Display – Displays speed and system messages
+
 Red LED Indicator – Alerts for over‑speed conditions
+
 Logic Toggles – Control and signal handling
 
 ⚙️ How It Works
@@ -29,5 +33,7 @@ Logic Toggles – Control and signal handling
 💻 Programming & Technical Skills
 
 Languages:C
+
 Hardware: 8051, IR Sensors, LCD Interfacing
+
 Tools: Keil, Proteus
